@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DependencyManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" BaseUrl="http://carbon-deps.s3.amazonaws.com">
+  <Files>
+    <File Name="notepad.exe" Hash="867b54f1bc5b71045a9a00baca485a24176b202c" />
+  </Files>
+  <Blobs>
+    <Blob Hash="867b54f1bc5b71045a9a00baca485a24176b202c" Size="245760" PackHash="d98ded21a38c54df1ae0df45e2120be5e1f7f244" PackOffset="8" />
+  </Blobs>
+  <Packs>
+    <Pack Hash="d98ded21a38c54df1ae0df45e2120be5e1f7f244" Size="245768" CompressedSize="166541" RemotePath="Example" />
+  </Packs>
+</DependencyManifest>
